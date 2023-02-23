@@ -1,0 +1,41 @@
+{
+  "squadName" : "LOS SUPER HEROES",
+  "homeTown" : "Metropolis",
+  "formed" : 2023,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "SUPERMAN",
+      "age" : 33,
+      "secretIdentity" : "Clark Kent",
+      "powers" : [
+        "Súper fuerza",
+        "velocidad",
+        "Súper Audición"
+      ]
+    },
+    {
+      "name" : "MUJER MARAVILLA",
+      "age" : 200,
+      "secretIdentity" : "Diana Prince",
+      "powers" : [
+        "Inmortalidad",
+        "Super Fuerza",
+        "Fcator Curacion"
+      ]
+    },
+    {
+      "name" : "BATMAN",
+      "age" : 35,
+      "secretIdentity" : "Bruce Wayne",
+      "powers" : [
+        "Intelecto",
+        "Tecnológia",
+        "Inferno"
+        
+        
+      ]
+    }
+  ]
+}
